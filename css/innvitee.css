@@ -1,5 +1,8 @@
 .main-background
 {
     background-image: url('https://st.depositphotos.com/1269993/4652/i/600/depositphotos_46529231-stock-photo-recycled-paper-texture-light-background.jpg');
+}
+
+.size-imagen{
     height: 100vh;
 }
